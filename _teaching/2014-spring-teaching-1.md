@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Virginia, Department of Economics"
+date: 2013 - Present
+location: "Charlottesville, VA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead various undergraduate discussion sessions in economics ranging from entry level class like principle of microeconomics to advanced topics like behavioral economics.  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Utilize a variety of teaching methods including lectures, media, and group discussions
+* Develop, administer and correct more than 100 copies of tests and quizzes in two days
+* Work with students on individual and small group basis (less than three students per group) to reinforce learning concepts, help complete assignments, and improve performance. 
