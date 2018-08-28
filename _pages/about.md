@@ -13,8 +13,8 @@ redirect_from:
 I am a Ph.D. candidate in Economics at University of Virginia. My job market paper studies the crowdout effect when the required contrbution rate increased for faculties at University of Virginia. You can find my contact information on the left-hand sidebar. I will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia.
 
 Research Fields:
-  - Public Economics,
-  - Labor Economics,
+  - Public Economics
+  - Labor Economics
   - Applied Econometrics
   - Applied Microeconomics
   
