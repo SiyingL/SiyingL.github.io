@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Virginia, Department of Economics"
-date: 2013
+date: 2013-08-01
 location: "Charlottesville, VA"
 ---
 
