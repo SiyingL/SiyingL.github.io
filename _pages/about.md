@@ -21,5 +21,9 @@ Research Fields:
 
 Personal Interests:
   - Data Analysis
-  - Web Scraping (see my python code to extract historical mutual fund expense ratio [here](https://google.com)
-  - Investing, both long term and short term. My current investment portfolio includes stocks, options, ETFS, and money market funds.
+    - See my Python code for Professor Ng's Machine Learning class [here](https://google.com) 
+  - Web Scraping
+    - see my Python code to extract historical mutual funds expense ratio and assets [here](https://google.com)
+  - Investment/Finance
+    - My investment strategy focus on both long term and short term. 
+    - My current investment portfolio includes stocks, options, ETFS, and money market funds.
