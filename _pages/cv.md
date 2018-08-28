@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of Virginia, May 2019 (expected)
+* M.A. in Economics, University of Virignia, December 2014
+* B.A. in Finance and Math, Lake Forest College, May 2013
 
 Work experience
 ======
@@ -28,12 +28,22 @@ Work experience
   
 Skills
 ======
-* [Skill 1](http://www.gooogle.com)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer
+  - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/R2CF9H3QUDVZ)
+  - Python
+  - Stata
+  - MS Office
+  - R
+  - SAS
+  - Mathematica
+  - Matlab/Octave
+  - HTML
+  - LaTex
+* Finance
+  * Chartered Financial Analyst Level 1
+* Languages:
+  - Chinese (native)
+  - English (high fluency)
 
 Publications
 ======
