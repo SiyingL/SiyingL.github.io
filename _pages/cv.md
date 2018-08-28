@@ -31,22 +31,11 @@ Experience
   
 Skills
 ======
-* Computer
-  - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/R2CF9H3QUDVZ)
-  - Python
-  - Stata
-  - MS Office
-  - R
-  - SAS
-  - Mathematica
-  - Matlab/Octave
-  - HTML
-  - LaTex
-* Finance
-  * Chartered Financial Analyst Level 1
-* Languages:
-  - Chinese (native)
-  - English (high fluency)
+* Computer: 
+  * Coding languages: [Machine Learning](https://www.coursera.org/account/accomplishments/verify/R2CF9H3QUDVZ); Python; Stata; R; Mathematica; Matlab/Octave; 
+  * Other: MS Office; HTML; LaTeX; Markdown
+* Finance: Chartered Financial Analyst Level 1
+* Languages: Chinese (native); English (high fluency)
 
 Publications
 ======
