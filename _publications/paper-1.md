@@ -1,7 +1,7 @@
 ---
 title: "Explaining game-to-game ticket sales for Major League Baseball games over time."
 collection: publications
-permalink: /research/2009-10-01-paper-title-number-1
+permalink: /research/paper-1
 excerpt: 'Using data from more than 10,000 games from 1985 through 2009, the authors estimate the effect various factors have on attendance at Major League Baseball (MLB) games.'
 date: 2012-10-01
 venue: 'Journal of Sports Economics'
