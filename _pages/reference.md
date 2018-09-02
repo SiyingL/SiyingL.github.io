@@ -22,4 +22,4 @@ References
 
 Other External Resources
 =====
--[Advanced Research Computing Services](https://arcs.virginia.edu/) at the University of Virginia provides high-performance computing expertise and service to researchers from across disciplines. 
+- [Advanced Research Computing Services](https://arcs.virginia.edu/) at the University of Virginia provides high-performance computing expertise and service to researchers from across disciplines. 
