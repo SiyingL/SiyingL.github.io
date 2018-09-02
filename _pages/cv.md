@@ -17,7 +17,7 @@ Education
 
 Skills
 ======
-* Software *
+* Software
   * Stata; MATLAB; ArcMap
 * Scientific Computing
   * Fortran; Parallel Computing
