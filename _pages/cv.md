@@ -21,4 +21,5 @@ Skills
   * Stata; MATLAB; ArcMap
 * Scientific Computing
   * Fortran; Parallel Computing
-* Languages: Chinese (native); English (high fluency)  
+* Languages
+  * Chinese (native); English (high fluency)  
