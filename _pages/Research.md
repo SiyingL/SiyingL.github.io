@@ -11,7 +11,7 @@ Research
 ## Published
 
 
-[Paper title 1] (google.com)
+[Paper title 1](google.com)
 
 Abstract
 
