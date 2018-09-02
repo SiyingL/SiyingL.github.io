@@ -41,10 +41,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* [paper 1](google.com)
+* paper 2
+* paper 3
   
 Teaching
 ======
