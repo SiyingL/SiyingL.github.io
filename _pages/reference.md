@@ -20,6 +20,6 @@ References
   - Email: ruhm@virginia.edu
   - Phone: (434) 243-3729
 
-Placement Office Contact Information
+Other External Resources
 =====
-
+-[Advanced Research Computing Services](https://arcs.virginia.edu/) at the University of Virginia provides high-performance computing expertise and service to researchers from across disciplines. 
