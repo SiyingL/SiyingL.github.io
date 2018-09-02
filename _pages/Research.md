@@ -9,7 +9,7 @@ author_profile: true
 Research
 =====
 ## Published
-Paper title 1
+[Paper title 1] (google.com)
 
 Abstract
 
