@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download PDF version of my CV from [here](https://caiskdbk.github.io/files/CV.pdf)
+You can download PDF version of my CV from [here](CV.pdf)
 
 Education
 ======
