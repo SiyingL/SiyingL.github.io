@@ -15,6 +15,10 @@ Education
 * Ph.D in Economics, University of Virginia, August 2018.
 * B.S. in Mathematics and Economics, Wuhan University, China, May 2011.
 
+Employment
+======
+* Postdoctoral Research Scholar (2018 August- Current), Wake Forest University 
+
 Skills
 ======
 * Software
