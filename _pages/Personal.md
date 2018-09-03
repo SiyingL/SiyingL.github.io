@@ -27,8 +27,9 @@ My husband (Dajun Lin) and I. Dajun is a Ph.D. candidate in Economics at Univers
 
 <img src="https://SiyingL.github.io/images/couplephoto.jpg" width="200" height="200" />
 
-Here is another important family member, who specialized in ball retrieving.
+Here is another important family member, who specializes in ball retrieving.
 
-![cute]()
+<img src="https://SiyingL.github.io/images/dogphoto.jpg" width="200" height="200" />
+
 
 
