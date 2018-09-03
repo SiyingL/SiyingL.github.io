@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Dajun Lin"
   avatar           : "Lin_ProfilePicture.jpg"
-  bio              : "Short Intro"
-  location         : "Charlottesville, VA, US"
-  employer         :
+  bio              : "PhD candidate in Economics"
+  location         : "Charlottesville, VA"
+  employer         : 
   googlescholar    : 
-  email            : "dl5me@virginia.edu"
+  email            : [dl5me@virginia.edu]
   uri              :
   bitbucket        :
   codepen          :
