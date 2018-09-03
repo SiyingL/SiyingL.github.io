@@ -9,7 +9,7 @@ author_profile: true
 Research
 ===
 
-##Published
+## Published
 
 **"Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey."**
 with Randall Lutter, Christopher J. Ruhm and Dajun Lin. Forthcoming at *Maternal and Child Nutrition*.
@@ -18,7 +18,7 @@ with Randall Lutter, Christopher J. Ruhm and Dajun Lin. Forthcoming at *Maternal
 
 [Replication Package](https://www.dropbox.com/sh/v8fkgrjwvfdaoxa/AAAwFO3CCGAygl7tEIVpsfVDa?dl=0)
 
-##Working Papers
+## Working Papers
 
 **"Entry Decisions and Incumbents' Responses: Evidence from the Outpatient Surgery Market."** (Job Market Paper)
 
@@ -27,7 +27,7 @@ with Randall Lutter, Christopher J. Ruhm and Dajun Lin. Forthcoming at *Maternal
 **"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."**
 with Jonathan Colmer, Dajun Lin and Jay P. Shimshack.
 
-##Work in Progress
+## Work in Progress
 
 **"Drug Related Deaths and Local Physician Practicing Styles."** 
 with Dajun Lin and Christopher J. Ruhm.
