@@ -23,7 +23,7 @@ author_profile: true
 
 ## Family
 
-My husband (Dajun Lin) and I. Dajun is a Ph.D. candidate in Economics at University of Virginia and also my co-author. he will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia. Please check out his personal website [here](https://dajun-lin.github.io/).
+My husband (Dajun Lin) and I. Dajun is a Ph.D. candidate in Economics at University of Virginia. His works on labor and health related topics. He will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia. You can check out his personal website [here](https://dajun-lin.github.io/).
 
 <img src="https://SiyingL.github.io/images/couplephoto.jpg" width="200" height="200" />
 
