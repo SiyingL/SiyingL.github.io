@@ -25,5 +25,5 @@ author_profile: true
 
 My husband (Dajun Lin) and I. 
 
-![alt text]((https://SiyingL.github.io/images/couplephoto.jpg)
+![alt text](https://SiyingL.github.io/images/couplephoto.jpg)
 
