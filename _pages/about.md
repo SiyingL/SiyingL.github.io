@@ -10,13 +10,16 @@ redirect_from:
 
 # Welcome!
 
-I am a Ph.D. candidate in Economics at University of Virginia. I will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia.
+I am a postdoctoral research scholar at Eudaimonia Institute and Economics department in Wake Forest University. You can find my contact information on the left-hand sidebar or below.
+
+I attended Wuhan University, China, double-majoring in Economics and Mathematics. I received my M.A. and Ph.D. in Economics from the University of Virginia. My primary research focuses on health economics and industrial organization. In particular, I am interested in if and how competition can lead to lower prices, and higher quality in the healthcare market. Additionally, I study how we can achieve better health outcomes through other channels such as reducing air pollution, promoting breastfeeding and preventing unnecessary opioid prescription.
 
 **Research Fields:**
-  - Labor Economics
+  - Industrial Organization
   - Health Economics
+  - Public Economics
   - Applied Microeconomics
 
 **Contact:**
- - Email: dl5me@virginia.edu
+ - Email: lius@wfu.edu
  - Phone: (302)740-4701
