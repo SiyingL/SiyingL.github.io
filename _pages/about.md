@@ -22,4 +22,4 @@ I attended Wuhan University, China, double-majoring in Economics and Mathematics
 
 **Contact:**
  - Email: lius@wfu.edu
- - Phone: (302)740-4701
+ - Mailing Address:  Kirby Hall 252A, Winston-Salem, NC 27106 
