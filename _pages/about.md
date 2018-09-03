@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am a postdoctoral research scholar in Eudaimonia Institute and Economics department, Wake Forest University. You can find my contact information on the left-hand sidebar or below.
+I am a postdoctoral research scholar at the Eudaimonia Institute and Economics Department, Wake Forest University. You can find my contact information on the left-hand sidebar or below.
 
 I attended Wuhan University, China, double-majoring in Economics and Mathematics. I received my M.A. and Ph.D. in Economics from the University of Virginia. My primary research focuses on health economics and industrial organization. In particular, I am interested in if and how competition can lead to lower prices, and higher quality in the healthcare market. Additionally, I study how we can achieve better health outcomes through other channels such as reducing air pollution, promoting breastfeeding and preventing unnecessary opioid prescription.
 
