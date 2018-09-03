@@ -38,13 +38,14 @@ Recent research has highlighted associations of breastfeeding with IQ, schooling
 with Jonathan Colmer, Siying Liu and Jay P. Shimshack.
 
 **Work in Progress**
+
 "Health Interdependency in the Household." with Leora Friedberg and Dina Guo.
 
-[Two Page Abstract](https://www.dropbox.com/s/tfmpv0rffm4i25e/Abstract%201_Health%20Interdependency%20in%20the%20Household.pdf?dl=0).
+[Two Page Summary](https://www.dropbox.com/s/tfmpv0rffm4i25e/Abstract%201_Health%20Interdependency%20in%20the%20Household.pdf?dl=0).
 
 "Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions." with Leora Friedberg and Dina Guo.
 
-[Two Page Abstract](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0).
+[Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0).
 
 "Drug Related Deaths and Local Physician Practicing Styles." 
 with Siying Liu and Christopher J. Ruhm.
