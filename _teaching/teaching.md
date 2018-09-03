@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/GTA
 venue: "University of Virginia, Department of Economics"
-date: 2013-2018
 location: "Charlottesville, VA"
 ---
 
