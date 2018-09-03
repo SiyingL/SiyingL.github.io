@@ -18,11 +18,17 @@ I am a Ph.D. candidate in Economics at University of Virginia. I will be availab
   - Applied Microeconomics
 
 **Contact:**
+
 Email: dl5me@virginia.edu
+
 Phone: (302)740-4701
 
 **Mailing Address:**
+
 University of Virginia 
+
 Economics Department 
+
 PO Box 400182 
+
 Charlottesville, VA 22904
