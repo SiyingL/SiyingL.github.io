@@ -24,6 +24,5 @@ author_profile: true
 ## Family
 
 My husband (Dajun Lin) and I. 
-
 ![alt text](https://SiyingL.github.io/images/couplephoto.jpg)
 
