@@ -6,13 +6,12 @@ author_profile: true
 
 {% include base_path %}
 
-Graduate Teaching Assistant
-======
+## Graduate Teaching Assistant
 
-## Graduate Level Courses
+### Graduate Level Courses
  * Econometrics I and II 
 
-## Undergraduate Level Couses
+### Undergraduate Level Couses
  * Introduction to Econometrics and Microeconomics   
  * Intermediate Microeconomics 
  * Econometrics
