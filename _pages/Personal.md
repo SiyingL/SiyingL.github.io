@@ -25,7 +25,7 @@ author_profile: true
 
 My husband (Dajun Lin) and I. Dajun is a Ph.D. candidate in Economics at University of Virginia and also my co-author. he will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia. Please check out his personal website [here](https://dajun-lin.github.io/)
 
-![alt text](https://SiyingL.github.io/images/couplephoto.jpg = 150*50)
+![alt text](https://SiyingL.github.io/images/couplephoto.jpg width="100" height="150")
 
 Here is another important family member, who specialized in ball retrieving.
 
