@@ -1,10 +1,10 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/GTA
 venue: "University of Virginia, Department of Economics"
-date: 2013-08-01
+date: 2013-2018
 location: "Charlottesville, VA"
 ---
 
