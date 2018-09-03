@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dajun Lin"
+title                    : "Siying Liu"
 title_separator          : "-"
-name                     : &name "Dajun Lin"
+name                     : &name "Siying Liu"
 description              : &description "personal description"
-url                      : https://Dajun-Lin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SiyingL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Dajun-Lin/Dajun-Lin.github.io"
+repository               : "SiyingL/SiyingL.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dajun Lin"
+  name             : "Siying Liu"
   avatar           : "Lin_ProfilePicture.jpg"
-  bio              : "PhD candidate in Economics; Math/Statistics enthusiast; Basketball fan; Epicure"
-  location         : "Charlottesville, VA"
-  employer         : 
+  bio              : "PhD in Economics"
+  location         : "Winston-Salem, NC"
+  employer         : "Wake Forest University"
   googlescholar    : 
-  email            : "dl5me@virginia.edu"
+  email            : "lius@wfu.edu"
   uri              :
   bitbucket        :
   codepen          :
