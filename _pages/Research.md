@@ -11,8 +11,10 @@ Research
 
 ## Published
 
-**"Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey."**
-with Randall Lutter, Christopher J. Ruhm and Dajun Lin. Forthcoming at *Maternal and Child Nutrition*.
+**“Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014,”**  with Dajun Lin and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
+
+**"Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey,"**
+with Randall Lutter, Christopher J. Ruhm and Dajun Lin, *Maternal & Child Nutrition*, 15.1(2019): e12651. 
 
 [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0)
 
@@ -22,14 +24,13 @@ with Randall Lutter, Christopher J. Ruhm and Dajun Lin. Forthcoming at *Maternal
 
 **"Entry Decisions and Incumbents' Responses: Evidence from the Outpatient Surgery Market."** (Job Market Paper)
 
-[Two Page Summary](https://www.dropbox.com/s/in670op56jgw9ay/Abstract_SL_OutpatientASC.pdf?dl=0)
-
-**"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."**
+**"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong,"**
 with Jonathan Colmer, Dajun Lin and Jay P. Shimshack.
 
 ## Work in Progress
+**“Endogenous Entry When Partnerships Matter: The Case of Hospices and Nursing Homes,”** with Christina M. Dalton
 
-**"Drug Related Deaths and Local Physician Practicing Styles."** 
-with Dajun Lin and Christopher J. Ruhm.
+
+
 
 
