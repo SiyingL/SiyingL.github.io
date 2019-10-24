@@ -16,11 +16,13 @@ author_profile: true
 
 [Jay Shimshack](http://www.jayshimshack.com/), University of Virginia
 
-[Dajun Lin](https://dajun-lin.github.io/), University of Virginia
+[Dajun Lin](https://dajun-lin.github.io/), American Institutes for Research
 
 [Christopher J. Ruhm](https://sites.google.com/site/christopherjruhm/home), University of Virginia
 
 [Christina M. Dalton](http://users.wfu.edu/daltonc/), Wake University
+
+[Jonathan Colmer](https://sites.google.com/site/jonathancolmer/), University of Virginia
 
 
 
