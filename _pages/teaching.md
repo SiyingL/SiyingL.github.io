@@ -6,7 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Graduate Teaching Assistant
+## Instructor (Wake Forest University)
+* Introduction to Economics
+
+## Graduate Teaching Assistant (University of Virginia)
 
 ### Graduate Level Courses
  * Econometrics I and II 
