@@ -24,7 +24,7 @@ with Randall Lutter, Christopher J. Ruhm and Dajun Lin, *Maternal & Child Nutrit
 
 **"Entry Decisions and Incumbents' Responses: Evidence from the Outpatient Surgery Market."** (Job Market Paper)
 
-**"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong,"**
+**"Can Growth Conquer All? The Pollution-Mortality Relationship in High-Income High-Pollution Hong Kong,"**
 with Jonathan Colmer, Dajun Lin and Jay P. Shimshack.
 
 ## Work in Progress
