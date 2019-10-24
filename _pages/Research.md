@@ -23,8 +23,9 @@ with Randall Lutter, Christopher J. Ruhm and Dajun Lin, *Maternal & Child Nutrit
 ## Working Papers
 
 **"Entry Decisions and Incumbents' Responses: Evidence from the Outpatient Surgery Market."** (Job Market Paper)
+[A One Page Abstract](https://www.dropbox.com/s/5ef0ifvj41lobzb/OnePageAbstract_SL.pdf?dl=0)
 
-**"Can Growth Conquer All? The Pollution-Mortality Relationship in High-Income High-Pollution Hong Kong,"**
+**"[Can Growth Conquer All? The Pollution-Mortality Relationship in High-Income High-Pollution Hong Kong](https://www.dropbox.com/s/zw431gd5jw6adjr/HK_Paper.pdf?dl=0),"**
 with Jonathan Colmer, Dajun Lin and Jay P. Shimshack.
 
 ## Work in Progress
