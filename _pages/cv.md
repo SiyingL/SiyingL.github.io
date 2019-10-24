@@ -22,7 +22,7 @@ Employment
 Skills
 ======
 * Software
-  * Stata; MATLAB; ArcMap
+  * Stata; R; MATLAB; ArcMap
 * Scientific Computing
   * Fortran; Parallel Computing
 * Languages
