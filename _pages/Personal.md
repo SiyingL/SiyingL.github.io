@@ -20,7 +20,7 @@ author_profile: true
 
 [Christopher J. Ruhm](https://sites.google.com/site/christopherjruhm/home), University of Virginia
 
-
+[Christina M. Dalton](http://users.wfu.edu/daltonc/), Wake University
 
 
 
