@@ -6,13 +6,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Links to my committee and co-authors
+## Dissertation Committee
 
 [Steven Stern](https://sites.google.com/site/stevensterneconomics/), Stony Brook University
 
 [Amalia Miller](http://people.virginia.edu/~am5by/), University of Virginia
 
 [Federico Ciliberto](https://sites.google.com/view/cilibertofederico/home), University of Virginia
+
+## Coauthors
 
 [Jay Shimshack](http://www.jayshimshack.com/), University of Virginia
 
