@@ -25,8 +25,6 @@ I will be available for interviews at the January 2020 ASSA meetings in San Dieg
 
 **Contact:**
  - Email: lius@wfu.edu
- - Address: Kirby Hall, 252A
-  
-            Wake Forest University 
-     
-            Winston-Salem, NC 27106
+ - Address: Kirby Hall, 252A,  
+     Wake Forest University,   
+     Winston-Salem, NC 27106
