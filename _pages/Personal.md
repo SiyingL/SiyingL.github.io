@@ -22,6 +22,8 @@ author_profile: true
 
 [Christopher J. Ruhm](https://sites.google.com/site/christopherjruhm/home), University of Virginia
 
+[Randall Lutter](https://www.linkedin.com/in/randall-lutter-04384a10), US Food and Drug Administration
+
 [Christina M. Dalton](http://users.wfu.edu/daltonc/), Wake University
 
 [Jonathan Colmer](https://sites.google.com/site/jonathancolmer/), University of Virginia
