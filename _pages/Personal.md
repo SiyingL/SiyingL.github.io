@@ -15,18 +15,21 @@ author_profile: true
 [Federico Ciliberto](https://sites.google.com/view/cilibertofederico/home), University of Virginia
 
 ## Coauthors
-
-[Jay Shimshack](http://www.jayshimshack.com/), University of Virginia
-
-[Dajun Lin](https://dajun-lin.github.io/), American Institutes for Research
-
-[Christopher J. Ruhm](https://sites.google.com/site/christopherjruhm/home), University of Virginia
-
-[Randall Lutter](https://www.linkedin.com/in/randall-lutter-04384a10), US Food and Drug Administration
+[Jonathan Colmer](https://sites.google.com/site/jonathancolmer/), University of Virginia
 
 [Christina M. Dalton](http://users.wfu.edu/daltonc/), Wake Forest University
 
-[Jonathan Colmer](https://sites.google.com/site/jonathancolmer/), University of Virginia
+[Dajun Lin](https://dajun-lin.github.io/), American Institutes for Research
+
+[Randall Lutter](https://www.linkedin.com/in/randall-lutter-04384a10), US Food and Drug Administration
+
+[Christopher J. Ruhm](https://sites.google.com/site/christopherjruhm/home), University of Virginia
+
+[Jay Shimshack](http://www.jayshimshack.com/), University of Virginia
+
+
+
+
 
 
 
