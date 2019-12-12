@@ -20,7 +20,7 @@ with Randall Lutter, Christopher J. Ruhm and Dajun Lin, *Maternal & Child Nutrit
 
 **"[Entry Decisions and Incumbents' Responses: Evidence from the Outpatient Surgery Market](https://www.dropbox.com/s/ge4diw0075uc119/p_version.pdf?dl=0)."** (Job Market Paper)
 
-**"[Why are Pollution Damages Lower in Developed Countries? Insights from High-Income, High-Pollution Hong Kong](https://www.dropbox.com/s/qey0h9df3cv5324/Hong_Kong_Pollution_Paper.pdf?dl=0),"** with Jonathan Colmer, Dajun Lin and Jay P. Shimshack.
+**"[Why are Pollution Damages Lower in Developed Countries? Insights from High-Income, High-Pollution Hong Kong](https://www.dropbox.com/s/qey0h9df3cv5324/Hong_Kong_Pollution_Paper.pdf?dl=0),"** with Jonathan Colmer, Dajun Lin and Jay P. Shimshack. (Under review in American Economics Review: Insights)
 
 ## Work in Progress
 **“Endogenous Entry When Partnerships Matter: The Case of Hospices and Nursing Homes,”** with Christina M. Dalton
