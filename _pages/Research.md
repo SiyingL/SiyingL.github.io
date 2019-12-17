@@ -11,7 +11,7 @@ Research
 
 ## Published
 
-**“Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014,”**  with Dajun Lin and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
+**“[Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014](https://www.sciencedirect.com/science/article/pii/S0749379719304143?dgcid=coauthor),”**  with Dajun Lin and Christopher J. Ruhm, *American Journal of Preventive Medicine*, Volume 58, Issue 1, January 2020, Pages 50-58
 
 **"[Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey](https://onlinelibrary.wiley.com/doi/full/10.1111/mcn.12651),"**
 with Randall Lutter, Christopher J. Ruhm and Dajun Lin, *Maternal & Child Nutrition*, 15.1(2019): e12651. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0), [Replication Package](https://www.dropbox.com/sh/v8fkgrjwvfdaoxa/AAAwFO3CCGAygl7tEIVpsfVDa?dl=0)
