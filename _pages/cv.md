@@ -17,12 +17,13 @@ Education
 
 Employment
 ======
-* Postdoctoral Research Scholar (2018 August- Current), Wake Forest University 
+* Economist (2020 - current), Amazon Inc
+* Postdoctoral Research Scholar (2018 - 2020), Wake Forest University
 
 Skills
 ======
 * Software
-  * Stata; R; MATLAB; ArcMap
+  * Python; SQL; Stata; R; MATLAB; ArcMap
 * Scientific Computing
   * Fortran; Parallel Computing
 * Languages
