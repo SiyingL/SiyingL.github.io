@@ -10,16 +10,9 @@ redirect_from:
 
 # Hello,
 
-I am a postdoctoral research fellow at the Eudaimonia Institute and Economics Department, Wake Forest University. I received my Ph.D. in Economics from the University of Virginia in 2018. I work at the intersection of health economics, industrial organization and public health.
+I am an Economist with Amazon Inc. I received my PhD in Economics from University of Virginia in 2018. I am curious learner who keep improving my skill in econometrics, experiment design and evaluation, programing, sourdough making and problem solving. 
 
-My research seeks to understand the decision-making process of patients, physicians and health care providers, and evaluate how market competition and government intervention in the health care market affects the accessibility to care, the quality of care and patients' welfare. I also work in the field of public health and published two papers with my coauthors (at *Maternal and Child Nutrition* and *American Journal of Preventive Medicine*, respectively). Please see my research page for details on these publications and other ongoing projects.
-
-
-**Research Fields:**
-  - Industrial Organization
-  - Health Economics
-  - Public Economics
-  - Applied Microeconomics
 
 **Contact:**
  - Email: sl3bd@virginia.edu
+ - Linkdin: linkedin.com/in/siying-liu-6292173b
