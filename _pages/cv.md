@@ -17,7 +17,7 @@ Education
 
 Employment
 ======
-* Economist (2020 - current), Amazon Inc
+* Economist (2020 - current), Amazon
 * Postdoctoral Research Scholar (2018 - 2020), Wake Forest University
 
 Skills
